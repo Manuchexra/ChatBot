@@ -1,0 +1,45 @@
+[2025-05-17 19:57:11] User(8041813332): hello -> Bot: Assalomu alaykum! Sizga qanday yordam bera olaman? 😊
+[2025-05-17 19:57:17] User(8041813332): raxmat -> Bot: Bu haqida ma'lumotim yo'q, boshqa savol bering.
+[2025-05-17 19:57:22] User(8041813332): bor -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 19:57:25] User(8041813332): python -> Bot: Python - bu ajoyib dasturlash tili! Soddaligi va kuchli kutubxonalari tufayli u dunyodagi eng mashhur tillardan biridir. Python bilan qanday loyihalar qilgansiz? 🐍
+[2025-05-17 19:57:33] User(8041813332): hi -> Bot: Assalomu alaykum! Sizga qanday yordam bera olaman? 😊
+[2025-05-17 19:58:38] User(8041813332): raxmat -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 19:58:53] User(8041813332): raxmat -> Bot: Arzimaydi! Har qanday vaqtda yordam berishga tayyorman 😊
+[2025-05-17 19:59:01] User(8041813332): Nimalarni bilasan -> Bot: Kengaytirilgan haqiqat (AR) - bu real dunyoga virtual elementlarni qo'shish texnologiyasi! U mobil ilovalar, o'yinlar va sanoatda qo'llaniladi. AR tajribangiz bormi? 📱
+[2025-05-17 19:59:21] User(8041813332): nima -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 19:59:28] User(8041813332): Telefon -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 19:59:35] User(8041813332): xo'sh -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 19:59:40] User(8041813332): ma'lumot -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 19:59:42] User(8041813332): bu -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 19:59:45] User(8041813332): ushbu -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 19:59:47] User(8041813332): xat -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 19:59:49] User(8041813332): C++ -> Bot: C++ - bu tezkor va qudratli dasturlash tili. U o'yinlar, operatsion tizimlar va yuqori unumdorlik talab qiladigan dasturlar uchun ajoyib tanlov! C++ bilan ishlash tajribangiz bormi? 🚀
+[2025-05-17 19:59:55] User(8041813332): dastur -> Bot: Bu haqida ma'lumotim yo'q, boshqa savol bering.
+[2025-05-17 20:00:25] User(8041813332): hi -> Bot: Hello! How can I help you? 😊
+[2025-05-17 20:00:31] User(8041813332): aha -> Bot: I couldn't find an exact answer to your question.
+[2025-05-17 20:00:42] User(8041813332): C++ -> Bot: C ++ is a fast and powerful programming language. Great choice for programs that require games, operating systems and high productivity! Do you have experience working with C ++? 🚀
+[2025-05-17 20:00:52] User(8041813332): zo'r -> Bot: I don't have info about that, try another question.
+[2025-05-17 20:00:57] User(8041813332): raxmat -> Bot: It's not worth it! I am ready to help at any time 😊
+[2025-05-17 20:01:03] User(8041813332): sorry -> Bot: There is no problem! How can I help you? 😊
+[2025-05-17 20:01:20] User(8041813332): Nima qilyapan -> Bot: I couldn't find an exact answer to your question.
+[2025-05-17 20:05:06] User(8041813332): vazifang -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 20:05:28] User(8041813332): hello -> Bot: Привет! Могу я чем-нибудь помочь? 😊
+[2025-05-17 20:05:33] User(8041813332): nima -> Bot: Извините, я не понял. Можете переформулировать?
+[2025-05-17 20:05:40] User(8041813332): o'z -> Bot: Я не нашел точного ответа на ваш вопрос.
+[2025-05-17 20:05:42] User(8041813332): uz -> Bot: Извините, я не понял. Можете переформулировать?
+[2025-05-17 20:05:44] User(8041813332): lang -> Bot: Извините, я не понял. Можете переформулировать?
+[2025-05-17 20:05:51] User(8041813332): ilm -> Bot: Знание - величайшее состояние. Попробуйте узнать что -то новое каждый день!
+[2025-05-17 20:06:12] User(8041813332): hey -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 20:06:18] User(8041813332): xo'p -> Bot: Kechirasiz, tushunmadim. Boshqacha so'rang?
+[2025-05-17 20:06:27] User(8041813332): Menga motivatsiya berchi -> Bot: Assalomu alaykum! Sizga qanday yordam bera olaman? 😊
+[2025-05-17 20:06:36] User(8041813332): men -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 20:06:45] User(8041813332): motivatsiya ber -> Bot: Hech qachon taslim bo‘lmang! Harakat qilgan inson albatta maqsadiga yetadi! 💪
+[2025-05-17 20:07:05] User(8041813332): Bot haqida ayt -> Bot: Men sizga turli mavzularda yordam beruvchi aqlli botman. Sizga qanday yordam bera olaman? 🤖
+[2025-05-17 20:09:46] User(2002019069): backend dasturlash tillari qaysilar ? -> Bot: Dasturlash - bu aql-zakovatni rivojlantirishning ajoyib usuli! Python, JavaScript yoki boshqa qaysi dasturlash tilini bilasiz? 💻
+[2025-05-17 20:11:32] User(2002019069): c++ ,c# -> Bot: C++ - bu tezkor va qudratli dasturlash tili. U o'yinlar, operatsion tizimlar va yuqori unumdorlik talab qiladigan dasturlar uchun ajoyib tanlov! C++ bilan ishlash tajribangiz bormi? 🚀
+[2025-05-17 20:14:14] User(8041813332): python , c++ -> Bot: Python - bu ajoyib dasturlash tili! Soddaligi va kuchli kutubxonalari tufayli u dunyodagi eng mashhur tillardan biridir. Python bilan qanday loyihalar qilgansiz? 🐍
+
+C++ - bu tezkor va qudratli dasturlash tili. U o'yinlar, operatsion tizimlar va yuqori unumdorlik talab qiladigan dasturlar uchun ajoyib tanlov! C++ bilan ishlash tajribangiz bormi? 🚀
+[2025-05-17 20:15:01] User(2002019069): python va c# haqida ma'lumot ber -> Bot: Python - bu ajoyib dasturlash tili! Soddaligi va kuchli kutubxonalari tufayli u dunyodagi eng mashhur tillardan biridir. Python bilan qanday loyihalar qilgansiz? 🐍
+[2025-05-17 20:15:14] User(2002019069): C# -> Bot: Sizning savolingizga aniq javob topilmadi.
+[2025-05-17 20:16:38] User(8041813332): C# -> Bot: C# - bu Microsoft tomonidan ishlab chiqilgan zamonaviy, kuchli dasturlash tili. Siz C# bilan qaysi platformalarda ishlaysiz? 🧩

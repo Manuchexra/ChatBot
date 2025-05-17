@@ -1,0 +1,67 @@
+{
+  "welcome": {
+    "uz": "Salom {name}! SmartBotga xush kelibsiz. Har qanday savolingizga javob bera olaman.",
+    "en": "Hello {name}! Welcome to SmartBot. I can answer any of your questions.",
+    "ru": "Привет {name}! Добро пожаловать в SmartBot. Я могу ответить на любые ваши вопросы."
+  },
+  "language_set": {
+    "uz": "Til muvaffaqiyatli o'zgartirildi!",
+    "en": "Language successfully changed!",
+    "ru": "Язык успешно изменен!"
+  },
+  "help": {
+    "uz": "Quyidagi buyruqlar mavjud:",
+    "en": "Available commands:",
+    "ru": "Доступные команды:"
+  },
+  "help_start": {
+    "uz": "Botni ishga tushirish",
+    "en": "Start the bot",
+    "ru": "Запустить бота"
+  },
+  "help_language": {
+    "uz": "Tilni o'zgartirish",
+    "en": "Change language",
+    "ru": "Изменить язык"
+  },
+  "help_ask": {
+    "uz": "Savol berish",
+    "en": "Ask a question",
+    "ru": "Задать вопрос"
+  },
+  "ask_question_prompt": {
+    "uz": "Savolingizni yozing, men javob berishga harakat qilaman:",
+    "en": "Type your question, I'll try to answer:",
+    "ru": "Напишите свой вопрос, я постараюсь ответить:"
+  },
+  "no_answer": {
+    "uz": "Kechirasiz, savolingizga javob topa olmadim. Boshqa so'zlar bilan ifodalab ko'ring.",
+    "en": "Sorry, I couldn't find an answer to your question. Try rephrasing it.",
+    "ru": "Извините, я не смог найти ответ на ваш вопрос. Попробуйте переформулировать."
+  },
+  "ai_system_prompt": {
+    "uz": "Siz foydali yordamchi botsiz. Savollarga aniq va tushunarli javob bering.",
+    "en": "You are a helpful assistant. Provide accurate and clear answers to questions.",
+    "ru": "Вы полезный помощник. Давайте точные и понятные ответы на вопросы."
+  },
+  "ai_error": {
+    "uz": "AI xizmatida vaqtinchalik muammo bor. Iltimos, keyinroq urinib ko'ring.",
+    "en": "There's a temporary issue with the AI service. Please try again later.",
+    "ru": "Возникла временная проблема с сервисом AI. Пожалуйста, попробуйте позже."
+  },
+  "not_admin": {
+    "uz": "Sizda admin huquqlari yo'q!",
+    "en": "You don't have admin privileges!",
+    "ru": "У вас нет прав администратора!"
+  },
+  "cancel": {
+    "uz": "Amal bekor qilindi.",
+    "en": "Action canceled.",
+    "ru": "Действие отменено."
+  },
+  "error": {
+    "uz": "Xatolik yuz berdi. Iltimos, keyinroq urinib ko'ring.",
+    "en": "An error occurred. Please try again later.",
+    "ru": "Произошла ошибка. Пожалуйста, попробуйте позже."
+  }
+}
